@@ -1,0 +1,13 @@
+
+n	java:S135*"YReduce the total number of break and continue statements in this loop to use at most one.(°Í§¡
+D
+java:S10663"/Merge this if statement with the enclosing one.(˜Á¸t
+J
+java:S10667"/Merge this if statement with the enclosing one.(ÁÝã¯ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÒ¹ïüÿÿÿÿ
+2
+java:S1643="Use a StringBuilder instead.(Ù‹®ü
+h
+java:S3776""RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ü×þ²
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(óöŒÀ
+N	java:S106_"9Replace this use of System.out or System.err by a logger.(·Š·£

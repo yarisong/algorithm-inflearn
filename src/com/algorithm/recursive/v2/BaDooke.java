@@ -8,7 +8,7 @@ public class BaDooke {
     static int total;
     static int temp = 0;
     static int sum;
-    static int ch;
+    static int[] ch;
     
     public static void main(String [] args){
         BaDooke T = new BaDooke();

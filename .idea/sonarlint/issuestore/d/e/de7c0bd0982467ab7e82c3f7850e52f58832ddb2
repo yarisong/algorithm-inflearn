@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‰Äºÿÿÿÿÿ8ÄÆÁÖž0
+^
+java:S4973<"<Strings and Boxed types should be compared using "equals()".(øâÛ‹úÿÿÿÿ8½ÂÖž0
+]	java:S125"<This block of commented-out lines of code should be removed.(«Ôé×þÿÿÿÿ8æÆÁÖž0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8èÆÁÖž0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8èÆÁÖž0
+P
+java:S2864;"4Iterate over the "entrySet" instead of the "keySet".(´ºØB8¨½ÂÖž0
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8íÆÁÖž0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8îÆÁÖž0
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8îÆÁÖž0
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8«½ÂÖž0
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8«½ÂÖž0

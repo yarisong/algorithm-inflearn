@@ -1,0 +1,12 @@
+
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â“Õî
+h
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(°”“†
+6
+java:S1659?" Declare "py" on a separate line.(Óãœ
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(ô¤„å
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¨Ïóâúÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ô¤„å
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8°¹Ú»0

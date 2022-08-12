@@ -1,0 +1,6 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ’ü¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éóÒñùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¬ğãûÿÿÿÿ8áÀ·åœ0
+>
+java:S16592"!Declare "pos" on a separate line.(áªâ¼8•µåœ0

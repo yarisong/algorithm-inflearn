@@ -1,0 +1,9 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÅ³ßþÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ô¤„å
+V	java:S125:"<This block of commented-out lines of code should be removed.(äùË¹ùÿÿÿÿ
+P
+java:S1854A":Remove this useless assignment to local variable "isPass".(¢‡®þ
+A
+java:S1481A"+Remove this unused "isPass" local variable.(¢‡®þ
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ô¤„å

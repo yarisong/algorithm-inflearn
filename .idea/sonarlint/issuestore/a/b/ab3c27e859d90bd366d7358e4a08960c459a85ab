@@ -1,0 +1,9 @@
+
+e	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Û‡p
+E
+java:S11970"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+c
+java:S5361>"HReplace this call to "replaceAll()" by a call to the "replace()" method.(•—ÈÏøÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(¡¸é¡
+K
+java:S1128"0Remove this unused import 'java.util.Map.Entry'.(±þê¾úÿÿÿÿ

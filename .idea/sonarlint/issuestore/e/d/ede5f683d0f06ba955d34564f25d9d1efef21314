@@ -1,0 +1,20 @@
+
+s	java:S1352"YReduce the total number of break and continue statements in this loop to use at most one.(œ¯ó§ûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©…©²úÿÿÿÿ
+M
+java:S2589Q"7Remove this expression which always evaluates to "true"(ôóÑ
+V	java:S125'"<This block of commented-out lines of code should be removed.(¨ÈºÄşÿÿÿÿ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(ô¤„å
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ô¤„å
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(ô¤„å
+>
+java:S1172t"(Remove this unused method parameter "n".(š¶ĞÍ
+B
+java:S1481w"'Remove this unused "rt" local variable.(µÅêúÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(®õã‚
+C
+java:S1144-"-Remove this unused private "solution" method.(³„ä·
+D
+java:S1144A".Remove this unused private "solution2" method.(Ùî¤å
+D
+java:S1144^".Remove this unused private "solution3" method.(ŸÄúÛ

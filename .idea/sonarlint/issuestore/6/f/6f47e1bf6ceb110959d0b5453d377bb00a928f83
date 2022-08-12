@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»×Äÿÿÿÿÿ
+U
+java:S1854!":Remove this useless assignment to local variable "answer".(´‰´ùÿÿÿÿ
+C
+java:S1172"(Remove this unused method parameter "n".(î€®ÿûÿÿÿÿ
+A
+java:S1481"+Remove this unused "answer" local variable.(åí¢é
+7
+java:S1659+"!Declare "sum" on a separate line.(öç…«

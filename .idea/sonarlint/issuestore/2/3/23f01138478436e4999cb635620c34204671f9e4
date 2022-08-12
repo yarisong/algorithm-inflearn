@@ -1,0 +1,16 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öâ©›ÿÿÿÿÿ
+7
+java:S1643."Use a StringBuilder instead.(Ö¥•õÿÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(Ï¾Úáùÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ô¤„å
+P
+java:S18546":Remove this useless assignment to local variable "answer".(Ó„Û½
+A
+java:S14816"+Remove this unused "answer" local variable.(Ó„Û½
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(Íó¦âûÿÿÿÿ
+P
+java:S1854@":Remove this useless assignment to local variable "answer".(Ó„Û½
+A
+java:S1481@"+Remove this unused "answer" local variable.(Ó„Û½
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÎÍâÜùÿÿÿÿ8¹èŽçœ0

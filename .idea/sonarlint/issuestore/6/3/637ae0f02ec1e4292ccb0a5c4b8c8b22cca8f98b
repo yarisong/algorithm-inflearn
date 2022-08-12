@@ -1,0 +1,16 @@
+
+K
+java:S1121".Extract the assignment out of this expression.(øÿÖ±8Ë¿¿²Ÿ0
+K
+java:S1121!".Extract the assignment out of this expression.(øÿÖ±8ºÎÁ²Ÿ0
+K
+java:S1121#".Extract the assignment out of this expression.(üëô8«æÁ²Ÿ0
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Šá
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç·ÆÂ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êõ¼‡ùÿÿÿÿ
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(øÿÖ±8×¿¿²Ÿ0
+S
+java:S2696!"6Make the enclosing method "static" or remove this set.(øÿÖ±8ÃÎÁ²Ÿ0
+S
+java:S2696#"6Make the enclosing method "static" or remove this set.(üëô8µæÁ²Ÿ0

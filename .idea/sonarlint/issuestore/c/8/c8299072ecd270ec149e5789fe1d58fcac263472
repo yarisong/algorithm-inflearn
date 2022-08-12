@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€‚Çğ
+R
+java:S2209"5Change this instance-reference to a static reference.(¬¯¶§8’ÇÂÂŸ0
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±û†‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò²ëåúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷˜Ùıÿÿÿÿ
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Š¼ÂŸ0
+;
+java:S1659/" Declare "rt" on a separate line.(Ëªõûÿÿÿÿ

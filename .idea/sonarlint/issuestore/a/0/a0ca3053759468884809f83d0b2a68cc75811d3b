@@ -1,0 +1,20 @@
+
+k	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï³—Àÿÿÿÿÿ
+7
+java:S1643"Use a StringBuilder instead.(¥Í¡åşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ö‡òıÿÿÿÿ
+f
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(çäı
+r
+java:S1149*"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8§ˆŸï0
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ô¤„å
+[
+java:S1854*"9Remove this useless assignment to local variable "stack".(ÑÖÙƒıÿÿÿÿ8¬ˆŸï0
+F
+java:S1172("*Remove this unused method parameter "str".(—äÙ'8¬ˆŸï0
+M
+java:S1481)"+Remove this unused "answer" local variable.(şù›şÿÿÿÿ8¬ˆŸï0
+L
+java:S1481*"*Remove this unused "stack" local variable.(ÑÖÙƒıÿÿÿÿ8­ˆŸï0
+J
+java:S1144(".Remove this unused private "solution2" method.(—äÙ'8°ºï0

@@ -1,0 +1,6 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãˆøž
+E
+java:S1481+"*Remove this unused "grade" local variable.(¯ÈÌ€úÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ù©È±
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(Ù©È±

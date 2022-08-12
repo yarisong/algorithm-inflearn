@@ -1,0 +1,13 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¼ë½þÿÿÿÿ
+v
+java:S2234,"[Parameters to solution2 have the same names but not the same order as the method arguments.(‘¥³¬øÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(ÿÅØ¬
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(«ÆÎüÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(µÖìóýÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+H
+java:S11440"-Remove this unused private "solution" method.( ê¨Ùÿÿÿÿÿ

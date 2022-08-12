@@ -1,0 +1,9 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş‘¦‹
+v
+java:S2234/"[Parameters to solution3 have the same names but not the same order as the method arguments.(¸Ê‡üÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(ÿÅØ¬
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(·Š·£
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(·Š·£
+I
+java:S11443".Remove this unused private "solution2" method.(ÈÇåûÿÿÿÿÿ

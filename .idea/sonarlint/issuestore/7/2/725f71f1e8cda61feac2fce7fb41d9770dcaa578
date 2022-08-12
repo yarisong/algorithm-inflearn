@@ -1,0 +1,7 @@
+
+n	java:S135&"YReduce the total number of break and continue statements in this loop to use at most one.(¯Äâ
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å»Ñ—
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ö‡òıÿÿÿÿ
+k
+java:S1149!"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(ô¤„å
